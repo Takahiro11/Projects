@@ -1,0 +1,13 @@
+c:\users\owner\documents\visual studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\bin\Debug\CSharp_log_viewer.exe.config
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\bin\Debug\CSharp_log_viewer.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\bin\Debug\CSharp_log_viewer.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\MainWindow.baml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\MainWindow.g.cs
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\App.g.cs
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer_MarkupCompile.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer.g.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer.pdb
