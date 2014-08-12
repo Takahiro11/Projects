@@ -25,14 +25,30 @@ namespace CSharp_log_viewer
             InitializeComponent();
         }
 
-        private void TabControl_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
-        }
-
         private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
         }
+
+        private void TextBox1_PreviewDragOver(object sender, DragEventArgs e)
+        {
+            if (e.Data.GetDataPresent(System.Windows.DataFormats.FileDrop, true))
+            {
+                e.Effects = System.Windows.DragDropEffects.Copy;
+            }
+            else
+            {
+                e.Effects = System.Windows.DragDropEffects.None;
+            }
+            e.Handled = true;
+        }
+
+        private void TextBox1_Drop(object sender, DragEventArgs e)
+        {
+            var dropFiles = e.Data.GetData(System.Windows.DataFormats.FileDrop) as string[];
+            if (dropFiles == null) return;
+            TextBox1.Text = dropFiles[0];
+        }
+
     }
 }
