@@ -11,3 +11,6 @@ C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_lo
 C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer.csproj.GenerateResource.Cache
 C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer.exe
 C:\Users\Owner\Documents\Visual Studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\CSharp_log_viewer.pdb
+C:\Users\Owner\documents\visual studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\GraphWindow1.baml
+C:\Users\Owner\documents\visual studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\obj\Debug\GraphWindow1.g.cs
+C:\Users\Owner\documents\visual studio 2013\Projects\CSharp_log_viewer\CSharp_log_viewer\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll

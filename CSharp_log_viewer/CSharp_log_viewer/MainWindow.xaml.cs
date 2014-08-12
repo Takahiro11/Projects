@@ -50,5 +50,12 @@ namespace CSharp_log_viewer
             TextBox1.Text = dropFiles[0];
         }
 
+        private void test1(object sender, RoutedEventArgs e)
+        {
+            GraphWindow1 gw1 = new GraphWindow1(TextBox1.Text);
+
+            gw1.Show();
+        }
+
     }
 }
